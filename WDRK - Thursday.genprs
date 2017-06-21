@@ -1,0 +1,1662 @@
+object TGenSettings
+  Parts = <
+    item
+      CatID = 'QSKUYQCOJVOIGHBIJBVM'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'OLHRLGYJTYCPIGDPDMQU'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'QSKUYQCOJVOIGHBIJBVM'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'QSKUYQCOJVOIGHBIJBVM'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'QSKUYQCOJVOIGHBIJBVM'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'PIIIBSWNFTRMAAK'
+    end
+    item
+      CatID = 'WWMTRPAVCBQRGHI'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FAWVQCPBCMYUXEWEDDUF'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FCKDOEBCGHAGSJW'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FCKDOEBCGHAGSJW'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FCKDOEBCGHAGSJW'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'FCKDOEBCGHAGSJW'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'LAMHPGQSJYJMKWYJCIYB'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'UKYADCUBUOPADOL'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'FCKDOEBCGHAGSJW'
+    end
+    item
+      CatID = 'KYYSVMAKMQHRPHTGRTFJ'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'CKFODAJYMDWKIPVPUFDI'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end
+    item
+      CatID = 'DHNANHCACGACECG'
+    end>
+  UseLen = True
+  Len = 1095
+  DontRepeatArtist = True
+  DontRepeatArtistMin = 120
+  DontRepeatArtistComparePercent = 100
+  DontRepeatTrack = True
+  DontRepeatTrackMin = 180
+  DontRepeatAlbum = True
+  DontRepeatAlbumMin = 60
+  DontRepeatAlbumSameArtist = True
+  DontRepeatTitle = True
+  DontRepeatTitleMin = 60
+  ReadAdditionalInfo = True
+  UseLastPlayed = True
+  OverlapAmount = 0
+  EmptyOnError = False
+  Priority = '012'
+  Categories = <
+    item
+      CategoryID = 'PIIIBSWNFTRMAAK'
+      Name = 'Local AM'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE Local AM'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'FCLHLJRXBKFBHLH'
+      Name = 'Local New'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE Local New'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'FCKDOEBCGHAGSJW'
+      Name = 'Local Late'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE Local Late'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'WWMTRPAVCBQRGHI'
+      Name = 'National AM'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE National AM'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'OLHRLGYJTYCPIGDPDMQU'
+      Name = 'National AM New'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE National AM New'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'LAMHPGQSJYJMKWYJCIYB'
+      Name = 'National Main New'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE National Main New'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'DHNANHCACGACECG'
+      Name = 'National Main'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE National Main'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'UKYADCUBUOPADOL'
+      Name = 'Local Main'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE Local Main'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'FAWVQCPBCMYUXEWEDDUF'
+      Name = 'Eaux Claires AM'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Station Music\Radioplay\Eaux Claires AM'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'CKFODAJYMDWKIPVPUFDI'
+      Name = 'National Late'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Radioboss\Music Library\Blugold Radio Main.xml'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FComment = 'REQUIRE National Late'
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'KYYSVMAKMQHRPHTGRTFJ'
+      Name = 'Eaux Claires Main'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Station Music\Radioplay\Eaux Claires Main'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end
+    item
+      CategoryID = 'QSKUYQCOJVOIGHBIJBVM'
+      Name = 'Blue Ox Festival'
+      LengthType = 0
+      Length0 = 1
+      Length1 = 0
+      IgnoreDoNotRepeat = False
+      DoNotLoop = False
+      Outro = False
+      SrcType = 1
+      SrcPlaylists = 'C:\Station Music\Radioplay\Blue Ox Festival'
+      SrcIncludeSubfolders = False
+      SrcInsertType = 0
+      SrcPos = 1
+      SrcPosAutoAdvance = False
+      FYearExclude = False
+      FLengthEnabled = False
+      FLengthTo = 9999.000000000000000000
+      FBPMExclude = False
+      FRatingFrom = 0
+      FRatingTo = 0
+      FRatingExclude = False
+      PriorityRules = <>
+      PriorityRating = <
+        item
+          Value = -40
+        end
+        item
+          Value = -30
+        end
+        item
+          Value = -20
+        end
+        item
+          Value = -10
+        end
+        item
+          Value = 0
+        end
+        item
+          Value = 10
+        end
+        item
+          Value = 15
+        end
+        item
+          Value = 20
+        end
+        item
+          Value = 30
+        end
+        item
+          Value = 40
+        end>
+      UsePriorityRating = False
+      OverrideArtistRpt = False
+      DontRepeatArtistMin = 0
+      OverrideTrackRpt = False
+      DontRepeatTrackMin = 0
+      OverrideAlbumRpt = False
+      DontRepeatAlbumMin = 0
+      OverrideTitleRpt = False
+      DontRepeatTitleMin = 0
+      SeparationRules = <>
+    end>
+end
